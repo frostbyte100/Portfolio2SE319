@@ -1,0 +1,19 @@
+{
+  "name": "portfolio2se319",
+  "version": "1.0.0",
+  "description": "multiplayer game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maschaff/Portfolio2SE319.git"
+  },
+  "author": "Matthew Schaffer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maschaff/Portfolio2SE319/issues"
+  },
+  "homepage": "https://github.com/maschaff/Portfolio2SE319#readme"
+}
