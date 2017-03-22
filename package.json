@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/maschaff/Portfolio2SE319/issues"
   },
-  "homepage": "https://github.com/maschaff/Portfolio2SE319#readme"
+  "homepage": "https://github.com/maschaff/Portfolio2SE319#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
 }
