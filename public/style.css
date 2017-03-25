@@ -1,0 +1,38 @@
+td {
+    width: 75px;
+    height: 75px;
+}
+
+table {
+    margin-left: 200px;
+}
+
+#chatbox {
+    border: solid 2px;
+    width: 300px;
+    margin: 100px;
+}
+
+#msgBox {
+    overflow-y: auto;
+    margin: 5px;
+    height: 307px;
+    width: 290px;
+    word-wrap: break-word;
+}
+
+#messages {
+    text-align: left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#messages li {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#messages li:nth-child(odd) {
+    background: #f2f2f2;
+}
